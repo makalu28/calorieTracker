@@ -22,11 +22,6 @@ The application is built upon a modular three-tier architecture:
 2. **Backend API (Logic Layer):** Handles image processing, coordinates communication with the ML model, and fetches data from nutritional databases.
 3. **ML Model (Intelligence Layer):** A deep learning component trained specifically for food classification.
 
-### 🖼️ System Workflow Diagram
-<p align="center">
-  <img width="70%" alt="System Workflow Diagram" src="https://github.com" />
-</p>
-
 ---
 
 ## 🛠️ Tech Stack & Methodology
@@ -71,4 +66,4 @@ The application is built upon a modular three-tier architecture:
 ---
 
 ## 👩‍💻 Author
-- **Katarina Pilić** - *B.Sc. in Computer Science and Technology*
+- **Katarina Pilić** - *univ. bacc. inf. et techn. Katarina Pilić*
